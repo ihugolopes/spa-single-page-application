@@ -4,15 +4,15 @@
 
 Builded project using dependencies: 
 
-<h5>- Styled components:</h5><br>
+<h5>- Styled components:</h5>
 How install: npm install --save styled-components<br>
 Documentation: https://styled-components.com/
 
-<h5>- Axios:</h5><br>
+<h5>- Axios:</h5>
 How install: npm install axios<br>
 Documentation: https://www.npmjs.com/package/axios
 
-<h5>- React router:</h5><br>
+<h5>- React router:</h5>
 Install command: npm install react-router-dom<br>
 Documentation in: https://reactrouter.com/web/guides/quick-start);
 
